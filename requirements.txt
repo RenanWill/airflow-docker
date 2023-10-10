@@ -1,4 +1,12 @@
 scikit-learn==0.24.2
 matplotlib==3.3.3
-pandas
 pandasql
+psycopg
+pandas
+datetime
+requests
+pandasql
+urllib3
+traceback2
+pyodbc
+SQLAlchemy
